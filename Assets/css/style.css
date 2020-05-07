@@ -2,8 +2,6 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 
-font-family: 'Oswald', sans-serif;
-font-family: 'Open Sans', sans-serif;
 
 .navbar {
     margin-bottom: 75%;
@@ -28,12 +26,10 @@ header{
   #header_1{
      width: 187pt;
      height: 107pt;
-     
   }
 
   .experiencia{
         color: #ffffff;
-
   }
   
   hr{
@@ -41,7 +37,6 @@ header{
     width: 50%;
     background-color: black;
   }
-}
 
 footer {
     padding: 50px;
@@ -51,9 +46,7 @@ footer {
     height: 100px;
   }
 
-#seccion3 {
-    background-color: #000000;
-    margin: auto;
+
 }
 
 
