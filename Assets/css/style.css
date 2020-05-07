@@ -12,13 +12,15 @@ font-family: 'Open Sans', sans-serif;
     margin-left: 15%;
 }
 
-.hero-section {
-    font-family: 'Oswald', sans-serif;
-    text-align: left;
+header {
     background-image: url('../img/bg_hero.png');
     background-repeat: no-repeat;
     background-size: cover;
-    color: #ffffff;
-    text-shadow: 0.125em 0.25em 0.125em #707070;
-    padding: 15rem 15rem;
+    background-position: left;
+    padding-bottom: 10rem;
+  }
+
+  .experiencia{
+        color: #ffffff;
+
   }
