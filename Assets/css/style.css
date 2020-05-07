@@ -1,0 +1,24 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+font-family: 'Oswald', sans-serif;
+font-family: 'Open Sans', sans-serif;
+
+.navbar-brand{
+    font-family: 'Oswald', sans-serif;
+    font-size: 40pt;
+    font-weight: 400;
+    margin-left: 15%;
+}
+
+.hero-section {
+    font-family: 'Oswald', sans-serif;
+    text-align: left;
+    background-image: url('../img/bg_hero.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    text-shadow: 0.125em 0.25em 0.125em #707070;
+    padding: 15rem 15rem;
+  }
