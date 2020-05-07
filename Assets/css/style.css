@@ -6,7 +6,7 @@ font-family: 'Oswald', sans-serif;
 font-family: 'Open Sans', sans-serif;
 
 .navbar {
-    margin-bottom: 15%;
+    margin-bottom: 75%;
 }
 
 .navbar-brand{
@@ -25,21 +25,36 @@ header{
     background-position: auto;
   }
 
+  #header_1{
+     width: 187pt;
+     height: 107pt;
+     
+  }
+
   .experiencia{
         color: #ffffff;
 
   }
+  
   hr{
-    border-style: solid;
-    border-color: #000000;
+    height: 10px;
+    width: 50%;
+    background-color: black;
+  }
 }
 
 footer {
     padding: 50px;
+    top: 1407px;
+    left: 627px;
+    width: 53px;
+    height: 100px;
   }
 
 #seccion3 {
     background-color: #000000;
     margin: auto;
 }
+
+
 
